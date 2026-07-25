@@ -47,4 +47,4 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | Link |
 | :---: | :---: | :---: |
-| 01 | Basic Problem Solving  | [Lab 01](https://github.com/Nazmul-Islam-Nice/ECE-1104_2410005/blob/main/Lab%20Reports/Lab_01.md#lab-report-1)|
+| 01 | Implementation of Logic Gates Using Universal Gates, Full Adder, and Binary to BCD Converter  | [Lab 01](https://github.com/Nazmul-Islam-Nice/ECE-2112-2410005/blob/main/DT01_.pdf)|
