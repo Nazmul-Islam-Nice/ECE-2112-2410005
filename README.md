@@ -48,3 +48,4 @@ _**Heaven’s Light is Our Guide**_
 | Lab No. | Title | Link |
 | :---: | :---: | :---: |
 | 01 | Implementation of Logic Gates Using Universal Gates, Full Adder, and Binary to BCD Converter  | [Lab 01](https://github.com/Nazmul-Islam-Nice/ECE-2112-2410005/blob/main/DT01_.pdf)|
+| 02 | Simplification of Boolean Expressions and Verification Using Logic Circuit Simulation  | [Lab 02](https://github.com/Nazmul-Islam-Nice/ECE-2112-2410005/blob/main/DT01_.pdf)|
